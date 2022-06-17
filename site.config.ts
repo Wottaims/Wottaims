@@ -18,7 +18,6 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'AyalaShantall',
-  instagram: 'shntyll',
   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
